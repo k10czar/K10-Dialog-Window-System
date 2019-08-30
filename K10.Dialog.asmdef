@@ -1,0 +1,15 @@
+{
+    "name": "K10.Dialog",
+    "references": [
+        "K10",
+        "K10.Localization"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
