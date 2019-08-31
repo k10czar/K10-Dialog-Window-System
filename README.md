@@ -14,7 +14,7 @@ Used on [**Star Vikings**](https://www.starvikings.com)
   
 #### Add the other submodule dependency, the Localisation Tool submodule*
 
-``git submodule add https://bitbucket.org/roguesnail/k10localisationtool.git "Assets/Standard Assets/K10 Localisation"``
+``git submodule add https://bitbucket.org/roguesnail/k10-localisation-tool.git "Assets/Standard Assets/K10 Localisation"``
   
 #### The add the Dialog Window System submodule
 
