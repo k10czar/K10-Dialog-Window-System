@@ -10,14 +10,14 @@ Used on [**Star Vikings**](https://www.starvikings.com)
 
 #### First add the submodule dependency
 
-``git submodule add https://github.com/k10czar/K10.git "Assets/Standard Assets/K10"``
+``git submodule add https://github.com/k10czar/K10.git "Assets/Plugins/K10"``
   
-#### Add the other submodule dependency, the Localisation Tool submodule*
+#### Add the other submodule dependency, the Localization Tool submodule*
 
-``git submodule add https://bitbucket.org/roguesnail/k10-localisation-tool.git "Assets/Standard Assets/K10 Localisation"``
+``git submodule add https://bitbucket.org/roguesnail/k10-localization-tool.git "Assets/Plugins/K10 Localisation"``
   
 #### The add the Dialog Window System submodule
 
-``git submodule add https://github.com/k10czar/K10-Dialog-Window-System.git "Assets/Standard Assets/K10 Dialog Window System"``
+``git submodule add https://github.com/k10czar/K10-Dialog-Window-System.git "Assets/Plugins/K10 Dialog Window System"``
 
 ###### *To get access our private modules please contact us
