@@ -14,10 +14,10 @@ Used on [**Star Vikings**](https://www.starvikings.com)
   
 #### Add the other submodule dependency, the Localization Tool submodule*
 
-``git submodule add https://bitbucket.org/roguesnail/k10-localization-tool.git "Assets/Plugins/K10 Localisation"``
+``git submodule add https://bitbucket.org/roguesnail/k10-localization-tool.git "Assets/Plugins/K10Localization"``
   
 #### The add the Dialog Window System submodule
 
-``git submodule add https://github.com/k10czar/K10-Dialog-Window-System.git "Assets/Plugins/K10 Dialog Window System"``
+``git submodule add https://github.com/k10czar/K10-Dialog-Window-System.git "Assets/Plugins/K10DialogWindowSystem"``
 
 ###### *To get access our private modules please contact us
